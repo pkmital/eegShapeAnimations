@@ -1,0 +1,4 @@
+ofxOpenCv
+ofxOsc
+ofxVectorGraphics
+ofxXmlSettings
